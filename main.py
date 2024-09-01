@@ -5,11 +5,11 @@ import re
 import aiohttp
 import asyncio
 
-api_id = '1747534'  # Replace with your api id
-api_hash = '5a2684512006853f2e48aca9652d83ea'  # Replace with your api hash
+api_id = '-1002206182870'  # Replace with your api id
+api_hash = '7373135041:AAEZJwiEJ76kN1xUMdVqVOioGX7woV2cbUw'  # Replace with your api hash
 phone_number = '+12105468956'  # Replace with your phone number
 
-client = TelegramClient('black_scrapper', api_id, api_hash)
+client = TelegramClient(' NEX CC ', api_id, api_hash)
 
 BIN_API_URL = 'https://bins.antipublic.cc/bins/{}'
 
